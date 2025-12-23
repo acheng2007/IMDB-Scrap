@@ -1,6 +1,6 @@
 # IMDB_Top50_Scrape
 
-This script is used to scrape the list of Top 50 movies from year your choice  to 2018. This repository has a directory 'Datasets' which contains the list of all top_50_year.txt files.
+This script is used to scrape IMDB Top 50 TV Shows by the year. 
 
 ## Dependencies
 1. Python
@@ -9,4 +9,8 @@ This script is used to scrape the list of Top 50 movies from year your choice  t
 
 ## Execution
 ``` python IMDB_Top50_Scraper.py ```
+
+
+## TODO
+Fix the bugs for the Rotten Tomato Scraper in order to display the most popular TV Shows/Movies based on popcornometer. 
 
